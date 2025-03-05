@@ -9,8 +9,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-    (1) 執行 `npm install` (安裝專案所需要的套件)
-    (2) 執行 `npm run dev` (執行專案)
+執行 `pnpm install` (安裝專案所需要的套件)
+執行 `pnpm run dev` (執行專案)
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
